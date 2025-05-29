@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+.strong-text {
+  font-weight: 500;
+}
+
 body {
   display: flex;
   flex-direction: column;
