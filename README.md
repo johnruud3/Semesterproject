@@ -35,4 +35,4 @@ Then open `index.html` in your browser. No build step or server is required.
 
 ## Author
 
-John-Kristian G. Ruud — [johnruud3](https://github.com/johnruud3)
+johnruud3
